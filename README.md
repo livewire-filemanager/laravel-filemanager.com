@@ -13,3 +13,8 @@ This project is open source, which means the maintainers volunteer their time to
 They share the code for free with the intention that it might benefit other developers. Since contributions and requests may require time to process, everyone should be patient and respectful.
 
 **Thanks!**
+
+## Credits
+
+Original code developed by : [Yves Engetschwiler](https://interactive.swiss)
+All illustrations are made by:  [Quetzal Graphic Design](https://quetzal.ch/)
