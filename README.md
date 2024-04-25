@@ -17,4 +17,5 @@ They share the code for free with the intention that it might benefit other deve
 ## Credits
 
 Original code developed by : [Yves Engetschwiler](https://interactive.swiss)
+
 All illustrations are made by:  [Quetzal Graphic Design](https://quetzal.ch/)
