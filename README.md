@@ -4,8 +4,9 @@
 
 # A Livewire filemanager for your Laravel applications
 
-The source code for the [Livewire Filemanager](https://livewire-filemanager.com/) website.
+This repository contains source code for the [Livewire Filemanager](https://livewire-filemanager.com/) website.
 
+If you're looking for the filemanager package, [head over here](https://github.com/livewire-filemanager/filemanager)
 
 ## Contributing
 
@@ -21,6 +22,6 @@ They share the code for free with the intention that it might benefit other deve
 
 ## Credits
 
-Original code developed by : [Yves Engetschwiler](https://interactive.swiss)
+Original code developed by : [Yves Engetschwiler](https://bee-interactive.ch)
 
 All illustrations are made by:  [Quetzal Graphic Design](https://quetzal.ch/)
