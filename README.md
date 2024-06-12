@@ -1,8 +1,13 @@
-The source code for the [Livewire Filemanager](https://livewire-filemanager.com/) website.
+
 
 <p align="center"><img src="https://github.com/livewire-filemanager/laravel-filemanager.com/raw/master/public/img/banner.png" alt="Livewire Filemanager"></p>
 
-# Contributing
+# A Livewire filemanager for your Laravel applications
+
+The source code for the [Livewire Filemanager](https://livewire-filemanager.com/) website.
+
+
+## Contributing
 
 All contributions are **welcome** and will be fully **credited**.
 
