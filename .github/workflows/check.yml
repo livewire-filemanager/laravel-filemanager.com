@@ -1,0 +1,25 @@
+name: Check
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check local assets
+        run: |
+          missing=0
+          for path in $(grep -oE '(href|src)="/[^"]*"' index.html | sed -E 's/^[a-z]+="\/(.*)"$/\1/'); do
+            if [ ! -f "$path" ]; then
+              echo "Missing: $path"
+              missing=1
+            fi
+          done
+          exit $missing
